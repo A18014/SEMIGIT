@@ -1,0 +1,10 @@
+diff a/Assets/Game/Scenes/GameMain/UI/Script.meta b/Assets/Game/Scenes/GameMain/UI/Script.meta	(rejected hunks)
+@@ -1,8 +0,0 @@
+-fileFormatVersion: 2
+-guid: 379efaa466d6ea342ad6e60e8b1817dd
+-folderAsset: yes
+-DefaultImporter:
+-  externalObjects: {}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 
